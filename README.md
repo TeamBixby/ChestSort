@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/TeamBixby/ChestSort/master/assets/icon.png"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/TeamBixby/ChestSort/master/assets/icon.png" width="100" height="auto"></h1>
 A simple plugin for PocketMine-MP that sort your chest at once!
 
 <h1>:mailbox_closed: Installation</h1>
