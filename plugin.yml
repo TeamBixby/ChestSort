@@ -1,0 +1,15 @@
+name: ChestSort
+author: alvin0319
+main: alvin0319\ChestSort\ChestSort
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  chestsort:
+    description: Sort your chest!
+    aliases: ["cs", "sc"]
+    permission: chestsort.command.use
+
+permissions:
+  chestsort.command.use:
+    default: true
